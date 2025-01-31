@@ -1,0 +1,5 @@
+.vscode/settings.json
+isodir
+*.o
+*.iso
+*.bin
